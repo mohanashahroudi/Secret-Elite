@@ -1,4 +1,4 @@
-# Vogue-studio
+# Secret-Elite
 
 A fashion modeling landing page bulit with HTML and CSS.
 
