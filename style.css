@@ -1,3 +1,6 @@
 .hero {
   height:100vh;
-  background-image:url("https://github.com/mohanashahroudi/Secret-Elite/blob/main/file_0000000054a471f4a39294f86f4aa8f2.png?raw=true")
+  background-image:url("https://github.com/mohanashahroudi/Secret-Elite/blob/main/file_0000000054a471f4a39294f86f4aa8f2.png?raw=true");
+  bacground-size:cover;
+  background-position:center;
+  psition:relative;}
